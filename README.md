@@ -1,5 +1,5 @@
 # Boolean_TCE_modeling_2023
-Code and figures related to Ildefonso & Finely npj Systems Biology 2023
+Code and figures related to Ildefonso & Finley npj Systems Biology 2023
 
 ## Repository Structure:
 - `model-files` : this folder contains both the Boulori WT model code and PD1 blockade code to run the model 
