@@ -1,0 +1,30 @@
+name: sens3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - scipy
+  - matplotlib
+  - sympy
+  - networkx
+  - cython
+  - pandas
+  - future
+  - pydot
+  - pygraphviz
+  - pathos
+  - deap
+  - editdistance
+  - pytables
+  - plotly
+  - fastcluster
+  - hdbscan
+  - pysb
+  - nodejs
+  - umap-learn
+  - nomkl
+  - numpy
+  - numpy-base
+  - jupyterlab
+prefix: /Users/geenaildefonso/anaconda/envs/sens3
